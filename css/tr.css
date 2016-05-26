@@ -1,0 +1,23 @@
+
+body
+{
+	font-family: 'Lato', sans-serif;
+}
+
+.tr-head h2
+{
+	color:rgb(64, 255, 0);
+	font-weight: 600;
+	letter-spacing: 3px;
+	margin-top:0px;
+  margin-bottom: 0px;
+}
+.tr-head h3
+{
+  color:rgb(26, 26, 255);
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	margin-top:0px;
+
+}
