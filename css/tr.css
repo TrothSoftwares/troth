@@ -21,3 +21,22 @@ body
 	margin-top:0px;
 
 }
+.tr-head
+{
+	padding: 0px;
+}
+.redwrap
+{
+	background: rgba(255,11,0,0.5);
+	width:100%;
+	height: 545px;
+}
+.wrap
+{
+	padding: 0px;
+}
+.blue-sec
+{
+	height: 150px;
+	background: rgb(6,135,236);
+}
