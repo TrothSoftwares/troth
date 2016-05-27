@@ -28,15 +28,16 @@ body
 .redwrap
 {
 	background: rgba(255,11,0,0.5);
+	padding: 25% 5% 5% 5%; 
 	width:100%;
-	height: 545px;
+	height: 100%;
+	text-align: left;
 }
 .wrap
 {
 	padding: 0px;
 }
-.blue-sec
+.ht100
 {
-	height: 150px;
-	background: rgb(6,135,236);
+	height: 100%;
 }
