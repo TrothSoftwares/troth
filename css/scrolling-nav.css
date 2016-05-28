@@ -64,10 +64,10 @@ height: 80%;
 }
 
 .services-section {
-    height: 100%;
+    height: 800px;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #eee;
 }
 .product-section {
     height: 100%;
