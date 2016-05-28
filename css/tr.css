@@ -41,3 +41,27 @@ body
 {
 	height: 100%;
 }
+.product-section  
+{
+color:#f4f4f4;
+}
+.product
+{
+	text-align: left;
+}
+.pro-top h3
+{
+	padding: 4% 2%;	
+
+}
+.product p
+{
+    padding: 2% 4%;
+	line-height: 1.5em;	
+
+}
+.proico
+{
+	float: left;
+	padding: 2%;	
+}

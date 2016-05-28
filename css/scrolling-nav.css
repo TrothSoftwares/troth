@@ -23,14 +23,14 @@ html {
 
 @media(min-width:767px) {
     .navbar {
-        padding: 20px 0;
+        padding: 30px 0;
         -webkit-transition: background .1s ease-in-out,padding .1s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .1s ease-in-out,padding .1s ease-in-out;
     }
 
     .top-nav-collapse {
-        padding: 30px 0px;
+        padding: 20px 0px;
         background-color rgb(153, 51, 0);
     }
 }
@@ -42,7 +42,8 @@ of those sections to manage the look and feel of the site. */
 .intro-section {
     height: 100%;
     text-align: center;
-    background: url('../img/desk.jpg')
+    background: url('../img/desk.jpg');
+    background-size: cover;
 }
 .tr1
 {
@@ -72,7 +73,7 @@ height: 80%;
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background: #333;
 }
 .contact-section {
     height: 100%;
