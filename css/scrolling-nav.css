@@ -64,20 +64,22 @@ height: 80%;
 }
 
 .services-section {
-    height: 800px;
-    padding-top: 150px;
+    height: 950px;
+    padding-top: 100px;
     text-align: center;
-    background: #eee;
+    background: url('../img/point.png') repeat;
+    position: relative;
+
 }
 .product-section {
-    height: 100%;
+    height: 80%;
     padding-top: 150px;
     text-align: center;
     background: #333;
 }
 .contact-section {
     height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
     background: #eee;
 }
